@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning some basic Blockchain and Machine Learning.
 - 👯 I’m looking to collaborate on improving my skill in Blockhain
 - 📫 How to reach me: You can email me at jpatihullah@gmail.com
-- ⚡ Fun fact: I love play Game and 
+- ⚡ Fun fact: I love playing Game
 
 ### Connect with me:
 [<img align="left" alt="Junanda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
