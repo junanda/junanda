@@ -3,11 +3,13 @@
 
 ### Software Developer
 
+
 - 🔭 I’m currently working on [Zi.Care](https://zicare.id/) and Remote Working Indonesia
 - 🌱 I’m currently learning some basic Blockchain and Machine Learning.
 - 👯 I’m looking to collaborate on improving my skill in Blockhain
 - 📫 How to reach me: You can email me at jpatihullah@gmail.com
 - ⚡ Fun fact: I love playing Game
+
 
 
 ### Connect with me:
@@ -16,6 +18,8 @@
 [<img align="left" alt="Junanda | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
+<br/>
+
 
 ### Languages and Tools:
 
@@ -36,6 +40,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
+<br/>
 <br/>
 
 [linkedIn]: https://www.linkedin.com/in/junanda-patihullah-38170187
