@@ -1,7 +1,7 @@
 # Junanda Patihullah
 
 
-### Software Developer
+### Fullstack Developer | Machine Learning Engineer
 
 <img align="right" alt="Coding" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
