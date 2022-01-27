@@ -1,7 +1,7 @@
-### Hi there, I'm Junanda 👋
+# Junanda Patihullah
 
 
-## I'm a Husband, Father and Developer
+### Software Developer
 
 - 🔭 I’m currently working on [Zi.Care](https://zicare.id/) and Remote Working Indonesia
 - 🌱 I’m currently learning some basic Blockchain and Machine Learning.
