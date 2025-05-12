@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
-- 🔭 I’m currently working on [Zi.Care](https://zicare.id/) and Remote Working Indonesia
+- 🔭 I’m currently working on [Delman](https://delman.io/) and Remote Working Indonesia
 - 🌱 I’m currently learning some basic Blockchain and Machine Learning.
 - 👯 I’m looking to collaborate on improving my skill in Blockhain
 - 📫 How to reach me: You can email me at jpatihullah@gmail.com
